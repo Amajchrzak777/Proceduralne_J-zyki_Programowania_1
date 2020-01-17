@@ -1,0 +1,1 @@
+The files include progress which I made in 2nd semester on course "Proceduralne jêzyki programowania 1".
